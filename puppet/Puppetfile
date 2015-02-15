@@ -1,0 +1,7 @@
+forge "https://forgeapi.puppetlabs.com"
+
+mod "spantree/java8", "0.2.5"
+mod "spantree/opsscripts", "0.2.0"
+mod "puppetlabs/apt", "1.3.0"
+mod "elasticsearch/elasticsearch", "0.9.0"
+mod "jfryman/nginx", "0.0.10"
